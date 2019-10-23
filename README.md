@@ -9,3 +9,5 @@ This repository has just 5 basic commits on master by three different coders, pr
 * Filtering `git log` with `--author` option
 
 Just another line of code
+
+Maryam: Finally managed to change this!
